@@ -1,3 +1,3 @@
 # reading-notes
 ## Growth Mindset 
-La mentalidad de crecimiento 
+La mentalidad de **crecimiento** 
