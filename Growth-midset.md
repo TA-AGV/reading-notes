@@ -1,1 +1,1 @@
-#Mentalidad de crecimiento
+# Mentalidad de crecimiento
