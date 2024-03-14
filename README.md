@@ -13,6 +13,6 @@ Mi sitio web trata sobre [Descripción de tu sitio web]. Aquí podras encontrar 
 
 | Temas | 
 | :----------  |
-| [Growth Mindser](./102/growth-mindset.md).  |
-| [Markdown](./102/markdown.md).     | 
+| 1. [Growth Mindser](./102/growth-mindset.md).  |
+| 2. [Markdown](./102/markdown.md).     | 
 
