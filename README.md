@@ -11,5 +11,8 @@ Mi sitio web trata sobre [Descripción de tu sitio web]. Aquí podras encontrar 
 
 ## Notas de lectura del code 102 
 
-1.  [Growth Mindser](./102/growth-mindset.md).
-2.  [Markdown](./102/markdown.md).
+| Encabezado 1 | encabezado |
+| :----------  | :----------|
+| [Growth Mindser](./102/growth-mindset.md).  | celda  |
+| [Markdown](./102/markdown.md).     |  ksksksk|
+
